@@ -290,21 +290,21 @@ angular.module("managerApp")
                 TN: "http://guides.ovh.com/"
             },
             cda: {
-                CZ: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                DE: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                ES: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                FI: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                FR: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                GB: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                IE: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                IT: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                LT: "https://docs.ovh.com/gb/en/cloud/ceph/",
+                CZ: "https://docs.ovh.com/cz/cs/storage/",
+                DE: "https://docs.ovh.com/de/storage/",
+                ES: "https://docs.ovh.com/es/storage/",
+                FI: "https://docs.ovh.com/fi/storage/",
+                FR: "https://docs.ovh.com/fr/storage/",
+                GB: "https://docs.ovh.com/gb/en/storage/",
+                IE: "https://docs.ovh.com/ie/en/storage/",
+                IT: "https://docs.ovh.com/it/storage/",
+                LT: "https://docs.ovh.com/lt/storage/",
                 MA: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                NL: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                PL: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                PT: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                SN: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                TN: "https://docs.ovh.com/gb/en/cloud/ceph/"
+                NL: "https://docs.ovh.com/nl/storage/",
+                PL: "https://docs.ovh.com/pl/storage/",
+                PT: "https://docs.ovh.com/pt/storage/",
+                SN: "https://docs.ovh.com/gb/en/storage",
+                TN: "https://docs.ovh.com/gb/en/storage"
             },
             ip_failover: {
                 CZ: {

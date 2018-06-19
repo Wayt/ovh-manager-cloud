@@ -167,13 +167,13 @@ angular.module("managerApp")
                 WS: "http://docs.ovh.ca/en/"
             },
             cda: {
-                ASIA: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                AU: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                CA: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                QC: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                SG: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                WE: "https://docs.ovh.com/gb/en/cloud/ceph/",
-                WS: "https://docs.ovh.com/gb/en/cloud/ceph/"
+                ASIA: "https://docs.ovh.com/gb/en/storage/",
+                AU: "https://docs.ovh.com/gb/en/storage/",
+                CA: "https://docs.ovh.com/gb/en/storage/",
+                QC: "https://docs.ovh.com/gb/en/storage/",
+                SG: "https://docs.ovh.com/gb/en/storage/",
+                WE: "https://docs.ovh.com/gb/en/storage/",
+                WS: "https://docs.ovh.com/gb/en/storage/"
             },
             ip_failover: {
                 ASIA: {
